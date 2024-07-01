@@ -1,6 +1,6 @@
-# Website | Design Agency
+# Website - Design Agency
 
-A quick project for an imaginary Design Studio that helped me refine my animation skills
+💻️ Design agency landing page UI/UX designed from scratch in Figma, coded in scss, javascript and vite.
 
 ## Tech Stack
 
